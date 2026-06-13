@@ -1,0 +1,900 @@
+01-001. Hi. —— 嗨。
+01-002. Hello. —— 你好。
+01-003. Hey. —— 嘿。
+01-004. Good morning. —— 早上好。
+01-005. Good afternoon. —— 下午好。
+01-006. Good evening. —— 晚上好。
+01-007. How are you? —— 你好吗？
+01-008. How's it going? —— 最近怎么样？
+01-009. How are things? —— 一切怎么样？
+01-010. What's up? —— 最近怎么样？
+01-011. Nice to meet you. —— 很高兴认识你。
+01-012. Good to see you. —— 很高兴见到你。
+01-013. Long time no see. —— 好久不见。
+01-014. How have you been? —— 你最近过得怎么样？
+01-015. I'm good. —— 我很好。
+01-016. I'm fine, thanks. —— 我很好，谢谢。
+01-017. Not bad. —— 还不错。
+01-018. Pretty good. —— 挺好的。
+01-019. Can't complain. —— 还行，没什么可抱怨的。
+01-020. How about you? —— 你呢？
+01-021. Thanks for asking. —— 谢谢关心。
+01-022. Have a good one. —— 祝你今天过得愉快。
+01-023. See you later. —— 回头见。
+01-024. See you soon. —— 很快见。
+01-025. Talk to you later. —— 晚点再聊。
+01-026. Take care. —— 保重。
+01-027. Have a nice day. —— 祝你今天愉快。
+01-028. Good night. —— 晚安。
+01-029. Sorry I'm late. —— 抱歉我迟到了。
+01-030. No worries. —— 没事。
+01-031. That's okay. —— 没关系。
+01-032. Excuse me. —— 打扰一下。
+01-033. Pardon? —— 请再说一遍？
+01-034. Could you repeat that? —— 你能再说一遍吗？
+01-035. I didn't catch that. —— 我没听清。
+01-036. What do you mean? —— 你是什么意思？
+01-037. You know what I mean? —— 你懂我的意思吧？
+01-038. Exactly. —— 正是。
+01-039. Right. —— 对。
+01-040. Sure. —— 当然。
+01-041. Of course. —— 当然。
+01-042. Maybe. —— 也许吧。
+01-043. I guess so. —— 我想是这样。
+01-044. I don't think so. —— 我不这么认为。
+01-045. That's true. —— 这是真的。
+01-046. That's interesting. —— 这很有意思。
+01-047. Sounds good. —— 听起来不错。
+01-048. Sounds great. —— 听起来很好。
+01-049. No problem. —— 没问题。
+01-050. Thank you. —— 谢谢你。
+01-051. Thanks a lot. —— 非常感谢。
+01-052. I appreciate it. —— 我很感谢。
+01-053. You're welcome. —— 不客气。
+01-054. My pleasure. —— 我的荣幸。
+01-055. Don't mention it. —— 不用谢。
+01-056. I'm sorry. —— 对不起。
+01-057. My bad. —— 我的错。
+01-058. It was my fault. —— 这是我的错。
+01-059. Are you okay? —— 你还好吗？
+01-060. Is everything okay? —— 一切都还好吗？
+01-061. What's wrong? —— 怎么了？
+01-062. Nothing much. —— 没什么。
+01-063. Same as usual. —— 和平常一样。
+01-064. I've been busy. —— 我最近很忙。
+01-065. It's been a long day. —— 今天真漫长。
+01-066. I'm tired. —— 我累了。
+01-067. I'm happy for you. —— 我真替你高兴。
+01-068. Congratulations. —— 恭喜。
+01-069. That's awesome. —— 太棒了。
+01-070. That's great news. —— 这真是好消息。
+01-071. I'm glad to hear that. —— 听到这个我很高兴。
+01-072. I'm sorry to hear that. —— 听到这个我很遗憾。
+01-073. Good luck. —— 祝你好运。
+01-074. You got this. —— 你可以的。
+01-075. Don't worry. —— 别担心。
+01-076. It's all good. —— 没事，一切都好。
+01-077. Never mind. —— 算了，没关系。
+01-078. Forget it. —— 算了吧。
+01-079. I have to go. —— 我得走了。
+01-080. I should get going. —— 我该走了。
+01-081. Let me know. —— 告诉我一声。
+01-082. Keep in touch. —— 保持联系。
+01-083. I'll see you around. —— 回头见。
+01-084. Give me a call. —— 给我打个电话。
+01-085. Text me later. —— 晚点给我发消息。
+01-086. Say hi to your family. —— 替我向你家人问好。
+01-087. How was your day? —— 你今天过得怎么样？
+01-088. How was your weekend? —— 你周末过得怎么样？
+01-089. Did you have fun? —— 你玩得开心吗？
+01-090. What are you up to? —— 你在忙什么？
+01-091. Are you free now? —— 你现在有空吗？
+01-092. Do you have a minute? —— 你有一分钟吗？
+01-093. Can I ask you something? —— 我能问你件事吗？
+01-094. Could you help me? —— 你能帮我一下吗？
+01-095. Let me think. —— 让我想想。
+01-096. Let me check. —— 让我查一下。
+01-097. Just a second. —— 稍等一下。
+01-098. Hang on. —— 等一下。
+01-099. Give me a minute. —— 给我一分钟。
+01-100. That's fine. —— 可以，没问题。
+02-001. My name is Alex. —— 我叫亚历克斯。
+02-002. I'm from here. —— 我是本地人。
+02-003. I'm from out of town. —— 我是外地来的。
+02-004. I live nearby. —— 我住在附近。
+02-005. I live alone. —— 我一个人住。
+02-006. I live with my family. —— 我和家人住在一起。
+02-007. I'm a student. —— 我是学生。
+02-008. I'm working now. —— 我现在在工作。
+02-009. I work from home. —— 我在家办公。
+02-010. I'm between jobs. —— 我正在换工作。
+02-011. I'm new here. —— 我是新来的。
+02-012. I'm still learning. —— 我还在学习。
+02-013. I'm not sure. —— 我不确定。
+02-014. I'm not ready yet. —— 我还没准备好。
+02-015. I'm ready. —— 我准备好了。
+02-016. I'm interested in it. —— 我对此感兴趣。
+02-017. I'm not interested. —— 我不感兴趣。
+02-018. I'm really excited. —— 我很兴奋。
+02-019. I'm a little nervous. —— 我有点紧张。
+02-020. I'm worried about it. —— 我有点担心这件事。
+02-021. I'm proud of you. —— 我为你感到骄傲。
+02-022. I'm disappointed. —— 我有点失望。
+02-023. I'm confused. —— 我有点困惑。
+02-024. I'm bored. —— 我很无聊。
+02-025. I'm hungry. —— 我饿了。
+02-026. I'm thirsty. —— 我渴了。
+02-027. I'm cold. —— 我冷。
+02-028. I'm hot. —— 我热。
+02-029. I'm sleepy. —— 我困了。
+02-030. I'm exhausted. —— 我累坏了。
+02-031. I'm in a hurry. —— 我赶时间。
+02-032. I'm not in a hurry. —— 我不着急。
+02-033. I'm on my way. —— 我在路上。
+02-034. I'm almost there. —— 我快到了。
+02-035. I'm running late. —— 我要迟到了。
+02-036. I'm stuck in traffic. —— 我堵在路上了。
+02-037. I'm having a hard time. —— 我现在有点困难。
+02-038. I'm doing my best. —— 我在尽力。
+02-039. I'm trying to understand. —— 我在努力理解。
+02-040. I'm not used to it. —— 我还不习惯。
+02-041. I'm getting used to it. —— 我正在慢慢习惯。
+02-042. I like it. —— 我喜欢它。
+02-043. I don't like it. —— 我不喜欢它。
+02-044. I love it. —— 我很喜欢它。
+02-045. I hate it. —— 我讨厌它。
+02-046. I prefer this one. —— 我更喜欢这个。
+02-047. I need more time. —— 我需要更多时间。
+02-048. I need a break. —— 我需要休息一下。
+02-049. I need some help. —— 我需要一些帮助。
+02-050. I don't need it. —— 我不需要它。
+02-051. I want to try. —— 我想试试。
+02-052. I don't want to talk about it. —— 我不想谈这件事。
+02-053. I think so. —— 我觉得是这样。
+02-054. I don't think so. —— 我不这么认为。
+02-055. I hope so. —— 希望如此。
+02-056. I hope not. —— 希望不是。
+02-057. I agree. —— 我同意。
+02-058. I disagree. —— 我不同意。
+02-059. I understand. —— 我明白。
+02-060. I don't understand. —— 我不明白。
+02-061. I remember. —— 我记得。
+02-062. I don't remember. —— 我不记得。
+02-063. I forgot. —— 我忘了。
+02-064. I changed my mind. —— 我改变主意了。
+02-065. I made a mistake. —— 我犯了个错误。
+02-066. I learned something new. —— 我学到了新东西。
+02-067. I have a question. —— 我有个问题。
+02-068. I have an idea. —— 我有个想法。
+02-069. I have no idea. —— 我完全不知道。
+02-070. I have a feeling. —— 我有种感觉。
+02-071. I feel better now. —— 我现在感觉好多了。
+02-072. I feel the same way. —— 我也有同感。
+02-073. I feel bad about it. —— 我对此感到不好受。
+02-074. I feel like going out. —— 我想出去走走。
+02-075. I don't feel like it. —— 我不太想。
+02-076. I care about this. —— 我在乎这件事。
+02-077. I don't care. —— 我不在乎。
+02-078. I mean it. —— 我是认真的。
+02-079. I was joking. —— 我开玩笑的。
+02-080. I was just saying. —— 我只是随口说说。
+02-081. I see your point. —— 我明白你的意思。
+02-082. I get what you mean. —— 我懂你的意思。
+02-083. I see it differently. —— 我有不同看法。
+02-084. I could be wrong. —— 我可能是错的。
+02-085. I might be wrong. —— 我也许错了。
+02-086. I know what you mean. —— 我知道你的意思。
+02-087. I don't know what to say. —— 我不知道该说什么。
+02-088. I just need a minute. —— 我只需要一分钟。
+02-089. I need to think about it. —— 我需要考虑一下。
+02-090. I want to be honest. —— 我想坦诚一点。
+02-091. I really appreciate you. —— 我真的很感激你。
+02-092. I can handle it. —— 我能处理。
+02-093. I can't handle this right now. —— 我现在处理不了这个。
+02-094. I was busy yesterday. —— 我昨天很忙。
+02-095. I didn't mean that. —— 我不是那个意思。
+02-096. I didn't know that. —— 我不知道这件事。
+02-097. I knew it. —— 我就知道。
+02-098. I have to be careful. —— 我得小心点。
+02-099. I just want to help. —— 我只是想帮忙。
+02-100. I need to get some sleep. —— 我需要睡一会儿。
+03-001. How is your family? —— 你家人好吗？
+03-002. How are your parents? —— 你父母好吗？
+03-003. Do you have any siblings? —— 你有兄弟姐妹吗？
+03-004. I have one brother. —— 我有一个兄弟。
+03-005. I have one sister. —— 我有一个姐妹。
+03-006. I'm an only child. —— 我是独生子女。
+03-007. My parents live nearby. —— 我父母住在附近。
+03-008. My family is doing well. —— 我家人都挺好。
+03-009. My mom called me. —— 我妈妈给我打电话了。
+03-010. My dad is at work. —— 我爸爸在上班。
+03-011. My kids are at school. —— 我的孩子们在上学。
+03-012. My partner is out. —— 我伴侣出去了。
+03-013. My friend is coming over. —— 我朋友要过来。
+03-014. A friend of mine told me. —— 我的一个朋友告诉我的。
+03-015. We grew up together. —— 我们一起长大的。
+03-016. We went to school together. —— 我们一起上过学。
+03-017. We work together. —— 我们一起工作。
+03-018. We live in the same building. —— 我们住在同一栋楼。
+03-019. We met online. —— 我们是在网上认识的。
+03-020. We met through a friend. —— 我们是通过朋友认识的。
+03-021. Are you seeing anyone? —— 你现在有交往对象吗？
+03-022. I'm seeing someone. —— 我正在和人交往。
+03-023. I'm single. —— 我单身。
+03-024. I'm married. —— 我结婚了。
+03-025. We're just friends. —— 我们只是朋友。
+03-026. We're very close. —— 我们关系很好。
+03-027. We're not that close. —— 我们没那么熟。
+03-028. He is my best friend. —— 他是我最好的朋友。
+03-029. She is like family to me. —— 她对我来说像家人一样。
+03-030. They are really nice people. —— 他们人很好。
+03-031. I trust him. —— 我信任他。
+03-032. I trust her. —— 我信任她。
+03-033. I don't know him well. —— 我不太了解他。
+03-034. I don't know her well. —— 我不太了解她。
+03-035. Can you introduce me? —— 你能介绍我认识一下吗？
+03-036. Let me introduce you. —— 让我介绍你们认识。
+03-037. This is my friend. —— 这是我的朋友。
+03-038. This is my coworker. —— 这是我的同事。
+03-039. This is my roommate. —— 这是我的室友。
+03-040. Nice to finally meet you. —— 终于见到你了，很高兴。
+03-041. I've heard a lot about you. —— 我听说过你很多事。
+03-042. Come in. —— 请进。
+03-043. Make yourself at home. —— 别拘束，当自己家一样。
+03-044. Have a seat. —— 请坐。
+03-045. Can I get you something to drink? —— 要喝点什么吗？
+03-046. Thanks for having me. —— 谢谢你招待我。
+03-047. Thanks for coming. —— 谢谢你能来。
+03-048. Stay a little longer. —— 再多待一会儿吧。
+03-049. I should head home. —— 我该回家了。
+03-050. Drive safe. —— 开车小心。
+03-051. Get home safe. —— 安全到家。
+03-052. Let me know when you get home. —— 到家告诉我一声。
+03-053. Do you want to hang out? —— 你想一起出去玩吗？
+03-054. Let's hang out sometime. —— 改天一起出去吧。
+03-055. Let's grab coffee. —— 我们去喝杯咖啡吧。
+03-056. Let's have dinner together. —— 我们一起吃晚饭吧。
+03-057. Are you free this weekend? —— 你这个周末有空吗？
+03-058. I already have plans. —— 我已经有安排了。
+03-059. Maybe another time. —— 也许下次吧。
+03-060. Can I bring a friend? —— 我能带个朋友吗？
+03-061. The more the merrier. —— 人越多越热闹。
+03-062. Who else is coming? —— 还有谁会来？
+03-063. It was great seeing you. —— 见到你很开心。
+03-064. We should do this again. —— 我们应该再聚一次。
+03-065. Tell me about yourself. —— 说说你自己吧。
+03-066. What do you do for fun? —— 你平时有什么爱好？
+03-067. What kind of music do you like? —— 你喜欢什么音乐？
+03-068. What shows are you watching? —— 你最近在看什么剧？
+03-069. Do you have any pets? —— 你有宠物吗？
+03-070. I have a dog. —— 我有一只狗。
+03-071. I have a cat. —— 我有一只猫。
+03-072. My dog is friendly. —— 我的狗很友好。
+03-073. My cat is shy. —— 我的猫很害羞。
+03-074. Happy birthday. —— 生日快乐。
+03-075. Happy holidays. —— 节日快乐。
+03-076. Merry Christmas. —— 圣诞快乐。
+03-077. Happy New Year. —— 新年快乐。
+03-078. I got you something. —— 我给你准备了点东西。
+03-079. You should not have. —— 你太客气了。
+03-080. This is for you. —— 这是给你的。
+03-081. I hope you like it. —— 希望你喜欢。
+03-082. It fits you well. —— 很适合你。
+03-083. You look great. —— 你看起来很棒。
+03-084. You look tired. —— 你看起来很累。
+03-085. Are you mad at me? —— 你在生我的气吗？
+03-086. I'm not mad. —— 我没有生气。
+03-087. Let's talk about it. —— 我们谈谈这件事吧。
+03-088. Can we start over? —— 我们能重新开始吗？
+03-089. I miss you. —— 我想你。
+03-090. I missed you. —— 我刚才想你了。
+03-091. I love you. —— 我爱你。
+03-092. I care about you. —— 我在乎你。
+03-093. I'm here for you. —— 我会陪着你。
+03-094. You can talk to me. —— 你可以跟我说。
+03-095. I'm sorry I hurt you. —— 抱歉我伤害了你。
+03-096. Thank you for being honest. —— 谢谢你坦诚。
+03-097. Can we keep in touch? —— 我们能保持联系吗？
+03-098. Let's catch up soon. —— 我们很快找时间叙叙旧吧。
+03-099. It means a lot to me. —— 这对我意义很大。
+03-100. We are always in touch. —— 我们一直保持联系。
+04-001. I'm at work. —— 我在上班。
+04-002. I'm in class. —— 我在上课。
+04-003. I'm in a meeting. —— 我在开会。
+04-004. Can we talk after the meeting? —— 我们会后能聊聊吗？
+04-005. Do you have time today? —— 你今天有时间吗？
+04-006. What time works for you? —— 你什么时间方便？
+04-007. What is the deadline? —— 截止时间是什么时候？
+04-008. When is it due? —— 什么时候到期？
+04-009. I need to finish this today. —— 我今天得完成这个。
+04-010. I'm working on it. —— 我正在做。
+04-011. I'm almost done. —— 我快做完了。
+04-012. I'm not done yet. —— 我还没做完。
+04-013. Can you send me the file? —— 你能把文件发给我吗？
+04-014. I sent you the file. —— 我把文件发给你了。
+04-015. Did you get my email? —— 你收到我的邮件了吗？
+04-016. I'll send it again. —— 我会再发一遍。
+04-017. Please check your inbox. —— 请查收你的收件箱。
+04-018. I attached the document. —— 我附上了文件。
+04-019. The link is not working. —— 这个链接打不开。
+04-020. The file is too large. —— 文件太大了。
+04-021. Can you share your screen? —— 你能共享屏幕吗？
+04-022. You're on mute. —— 你静音了。
+04-023. Can you hear me? —— 你能听到我吗？
+04-024. I can hear you. —— 我能听到你。
+04-025. I can't hear you. —— 我听不到你。
+04-026. Your camera is off. —— 你的摄像头关着。
+04-027. The connection is bad. —— 网络连接不好。
+04-028. Let's take a quick break. —— 我们快速休息一下。
+04-029. Let's get started. —— 我们开始吧。
+04-030. Let's move on. —— 我们继续下一项吧。
+04-031. Can you explain that again? —— 你能再解释一遍吗？
+04-032. Could you give an example? —— 你能举个例子吗？
+04-033. That makes sense. —— 这说得通。
+04-034. I have a different opinion. —— 我有不同意见。
+04-035. I agree with you. —— 我同意你的看法。
+04-036. I disagree with that. —— 我不同意那一点。
+04-037. What do you think? —— 你怎么看？
+04-038. Any questions? —— 有什么问题吗？
+04-039. I have a quick question. —— 我有个小问题。
+04-040. Let me clarify. —— 我来澄清一下。
+04-041. Let me summarize. —— 我来总结一下。
+04-042. Here is the main point. —— 重点是这个。
+04-043. The main issue is time. —— 主要问题是时间。
+04-044. We need more data. —— 我们需要更多数据。
+04-045. We need a better plan. —— 我们需要更好的计划。
+04-046. We are behind schedule. —— 我们进度落后了。
+04-047. We are on track. —— 我们进展正常。
+04-048. We need to decide today. —— 我们今天需要做决定。
+04-049. Can we make a decision? —— 我们能做个决定吗？
+04-050. I need your approval. —— 我需要你的批准。
+04-051. That works for me. —— 这个对我可以。
+04-052. That doesn't work for me. —— 这个对我不合适。
+04-053. Can we change the plan? —— 我们能改计划吗？
+04-054. Can we push it back? —— 我们能往后推吗？
+04-055. Can we move it up? —— 我们能提前吗？
+04-056. I have a conflict. —— 我的时间冲突了。
+04-057. I need to reschedule. —— 我需要改期。
+04-058. Thanks for the update. —— 谢谢你更新进展。
+04-059. Thanks for letting me know. —— 谢谢你告诉我。
+04-060. Please keep me posted. —— 请随时告诉我进展。
+04-061. I will keep you posted. —— 我会随时告诉你进展。
+04-062. I need more details. —— 我需要更多细节。
+04-063. Can you be more specific? —— 你能说得更具体些吗？
+04-064. Please write it down. —— 请把它写下来。
+04-065. Please fill out this form. —— 请填写这张表。
+04-066. Where do I sign? —— 我在哪里签字？
+04-067. Do I need an appointment? —— 我需要预约吗？
+04-068. I have an appointment. —— 我有预约。
+04-069. I would like to make an appointment. —— 我想预约。
+04-070. Can I speak to someone? —— 我能找个人咨询吗？
+04-071. Who should I talk to? —— 我应该找谁？
+04-072. Can you transfer me? —— 你能帮我转接吗？
+04-073. I am calling about my application. —— 我打电话是想问我的申请。
+04-074. I need to check my status. —— 我想查一下我的状态。
+04-075. What documents do I need? —— 我需要哪些文件？
+04-076. Do you need my ID? —— 你需要我的身份证件吗？
+04-077. Here is my ID. —— 这是我的证件。
+04-078. Can I pay here? —— 我能在这里付款吗？
+04-079. Can I get a receipt? —— 我能要一张收据吗？
+04-080. Please print it for me. —— 请帮我打印一下。
+04-081. Please scan this document. —— 请扫描这份文件。
+04-082. Can you make a copy? —— 你能复印一份吗？
+04-083. I need to submit this. —— 我需要提交这个。
+04-084. I already submitted it. —— 我已经提交了。
+04-085. It was rejected. —— 它被拒了。
+04-086. It was approved. —— 它被批准了。
+04-087. What should I do next? —— 我下一步该做什么？
+04-088. Please follow the instructions. —— 请按照说明操作。
+04-089. Read the instructions carefully. —— 请仔细阅读说明。
+04-090. I missed the deadline. —— 我错过了截止日期。
+04-091. Can I get an extension? —— 我能延期吗？
+04-092. I need to study tonight. —— 我今晚需要学习。
+04-093. I have homework. —— 我有作业。
+04-094. I have an exam tomorrow. —— 我明天有考试。
+04-095. I passed the exam. —— 我考试通过了。
+04-096. I failed the exam. —— 我考试没过。
+04-097. Can you help me review? —— 你能帮我复习吗？
+04-098. I need to practice more. —— 我需要多练习。
+04-099. This is important. —— 这很重要。
+04-100. Please double-check it. —— 请再核对一遍。
+05-001. What time is it? —— 现在几点？
+05-002. What day is it today? —— 今天星期几？
+05-003. What is the date today? —— 今天几号？
+05-004. It is Monday. —— 今天是星期一。
+05-005. It is already late. —— 已经很晚了。
+05-006. It is still early. —— 还早。
+05-007. I have time now. —— 我现在有时间。
+05-008. I don't have time now. —— 我现在没时间。
+05-009. I am free tomorrow. —— 我明天有空。
+05-010. I am busy tomorrow. —— 我明天很忙。
+05-011. Are you free tonight? —— 你今晚有空吗？
+05-012. Are you free this afternoon? —— 你今天下午有空吗？
+05-013. Are you free this weekend? —— 你这个周末有空吗？
+05-014. What are you doing later? —— 你等会儿要做什么？
+05-015. What are your plans? —— 你有什么计划？
+05-016. Do you have plans tonight? —— 你今晚有安排吗？
+05-017. I don't have any plans. —— 我没有安排。
+05-018. I already made plans. —— 我已经有安排了。
+05-019. Let's meet at six. —— 我们六点见。
+05-020. Let's meet after work. —— 我们下班后见。
+05-021. Let's meet at the entrance. —— 我们在入口见。
+05-022. Can we meet earlier? —— 我们能早点见吗？
+05-023. Can we meet later? —— 我们能晚点见吗？
+05-024. Can we do it tomorrow? —— 我们能明天做吗？
+05-025. Can we do it next week? —— 我们能下周做吗？
+05-026. Can we move it to Friday? —— 我们能改到周五吗？
+05-027. Can we keep it short? —— 我们能简短一点吗？
+05-028. How long will it take? —— 这要花多久？
+05-029. It will take about an hour. —— 大概要一个小时。
+05-030. It will not take long. —— 不会花很久。
+05-031. I will be there in ten minutes. —— 我十分钟后到。
+05-032. I will be there soon. —— 我很快到。
+05-033. I am leaving now. —— 我现在出发。
+05-034. I just got here. —— 我刚到。
+05-035. I am already here. —— 我已经到了。
+05-036. I am waiting outside. —— 我在外面等。
+05-037. I waited for twenty minutes. —— 我等了二十分钟。
+05-038. Sorry to keep you waiting. —— 抱歉让你久等了。
+05-039. Thanks for waiting. —— 谢谢你等我。
+05-040. Can you wait a little longer? —— 你能再等一会儿吗？
+05-041. I need to leave early. —— 我需要早点走。
+05-042. I have to leave by five. —— 我五点前得走。
+05-043. I will be back later. —— 我晚点回来。
+05-044. I will call you later. —— 我晚点给你打电话。
+05-045. I will text you tonight. —— 我今晚给你发消息。
+05-046. I will let you know tomorrow. —— 我明天告诉你。
+05-047. Remind me later. —— 稍后提醒我。
+05-048. Please remind me tomorrow. —— 请明天提醒我。
+05-049. Do not forget. —— 别忘了。
+05-050. Don't be late. —— 别迟到。
+05-051. Set an alarm. —— 设个闹钟。
+05-052. The alarm did not go off. —— 闹钟没响。
+05-053. I overslept. —— 我睡过头了。
+05-054. I woke up late. —— 我起晚了。
+05-055. I need to get up early. —— 我需要早起。
+05-056. I went to bed late. —— 我睡得很晚。
+05-057. I could not sleep. —— 我睡不着。
+05-058. I slept well. —— 我睡得很好。
+05-059. I have a busy day. —— 我今天很忙。
+05-060. My schedule is full. —— 我的日程满了。
+05-061. My schedule is open. —— 我的日程比较空。
+05-062. I need to check my calendar. —— 我需要查一下日历。
+05-063. I put it on my calendar. —— 我把它记到日历上了。
+05-064. I forgot about it. —— 我忘了这件事。
+05-065. I almost forgot. —— 我差点忘了。
+05-066. I remembered at the last minute. —— 我最后一刻想起来了。
+05-067. We are running out of time. —— 我们快没时间了。
+05-068. We have plenty of time. —— 我们时间很充足。
+05-069. We need to hurry. —— 我们得快点。
+05-070. Take your time. —— 慢慢来。
+05-071. No need to rush. —— 不用急。
+05-072. The sooner, the better. —— 越快越好。
+05-073. Anytime is fine. —— 什么时候都可以。
+05-074. Morning works better for me. —— 上午对我更合适。
+05-075. Afternoon works better for me. —— 下午对我更合适。
+05-076. Tonight works for me. —— 今晚我可以。
+05-077. Tomorrow works for me. —— 明天我可以。
+05-078. Friday does not work for me. —— 周五我不方便。
+05-079. Can you make it at three? —— 三点你能来吗？
+05-080. I can make it. —— 我能来。
+05-081. I can't make it. —— 我来不了。
+05-082. I might be able to make it. —— 我也许能来。
+05-083. I need to cancel. —— 我需要取消。
+05-084. Sorry for the short notice. —— 抱歉临时通知你。
+05-085. Something came up. —— 临时有事。
+05-086. I have to take care of something. —— 我得处理点事。
+05-087. Can we talk now? —— 我们现在能聊吗？
+05-088. Can we talk later? —— 我们晚点能聊吗？
+05-089. I have five minutes. —— 我有五分钟。
+05-090. I only have a minute. —— 我只有一分钟。
+05-091. This can wait. —— 这事可以等等。
+05-092. This cannot wait. —— 这事不能等。
+05-093. It is urgent. —— 这很紧急。
+05-094. It is not urgent. —— 这不紧急。
+05-095. Let us plan ahead. —— 我们提前计划吧。
+05-096. Let us play it by ear. —— 我们到时候再看吧。
+05-097. We can decide later. —— 我们可以晚点再决定。
+05-098. I will see you then. —— 那到时候见。
+05-099. See you tomorrow. —— 明天见。
+05-100. See you next week. —— 下周见。
+06-001. I'm hungry. —— 我饿了。
+06-002. I'm thirsty. —— 我渴了。
+06-003. What do you want to eat? —— 你想吃什么？
+06-004. What do you feel like eating? —— 你想吃点什么？
+06-005. Where should we eat? —— 我们去哪儿吃？
+06-006. Let's eat out. —— 我们出去吃吧。
+06-007. Let's cook at home. —— 我们在家做饭吧。
+06-008. Let's order in. —— 我们点外卖吧。
+06-009. Do you want coffee? —— 你想喝咖啡吗？
+06-010. Can I get a coffee? —— 我能要一杯咖啡吗？
+06-011. Can I get a glass of water? —— 我能要一杯水吗？
+06-012. Can I see the menu? —— 我能看一下菜单吗？
+06-013. Do you have a table for two? —— 有两个人的座位吗？
+06-014. We have a reservation. —— 我们有预订。
+06-015. I made a reservation under Alex. —— 我用亚历克斯的名字订了位。
+06-016. Can we sit outside? —— 我们能坐外面吗？
+06-017. Can we sit by the window? —— 我们能坐窗边吗？
+06-018. What do you recommend? —— 你推荐什么？
+06-019. What's popular here? —— 这里什么比较受欢迎？
+06-020. I'll have the same. —— 我要一样的。
+06-021. I'll take this one. —— 我要这个。
+06-022. Can I have it without onions? —— 能不放洋葱吗？
+06-023. Can I have the sauce on the side? —— 酱汁能放旁边吗？
+06-024. Is it spicy? —— 这个辣吗？
+06-025. It is too spicy. —— 这个太辣了。
+06-026. It tastes good. —— 味道不错。
+06-027. It smells amazing. —— 闻起来很香。
+06-028. I am full. —— 我吃饱了。
+06-029. I am still hungry. —— 我还饿。
+06-030. Can we get the bill? —— 我们能买单吗？
+06-031. Can we split the bill? —— 我们能分开付吗？
+06-032. I will pay. —— 我来付。
+06-033. It is my treat. —— 我请客。
+06-034. Thanks for treating me. —— 谢谢你请我。
+06-035. Do you take cards? —— 你们收银行卡吗？
+06-036. Do you take cash? —— 你们收现金吗？
+06-037. Can I pay by phone? —— 我能用手机支付吗？
+06-038. The card was declined. —— 这张卡被拒了。
+06-039. Can I get a receipt? —— 我能要收据吗？
+06-040. Keep the change. —— 不用找了。
+06-041. I am looking for a gift. —— 我想买个礼物。
+06-042. I am just looking. —— 我只是看看。
+06-043. Can I help you? —— 需要帮忙吗？
+06-044. I need a different size. —— 我需要另一个尺码。
+06-045. Do you have this in medium? —— 这个有中码吗？
+06-046. Do you have this in black? —— 这个有黑色的吗？
+06-047. Can I try it on? —— 我能试穿吗？
+06-048. Where is the fitting room? —— 试衣间在哪里？
+06-049. It fits well. —— 很合身。
+06-050. It is too small. —— 太小了。
+06-051. It is too big. —— 太大了。
+06-052. It is too expensive. —— 太贵了。
+06-053. Is it on sale? —— 这个打折吗？
+06-054. How much is it? —— 多少钱？
+06-055. What is the price? —— 价格是多少？
+06-056. Can you give me a discount? —— 能给我打个折吗？
+06-057. I will think about it. —— 我考虑一下。
+06-058. I will take it. —— 我要了。
+06-059. I do not need a bag. —— 我不需要袋子。
+06-060. Can I get a bag? —— 能给我一个袋子吗？
+06-061. Can I return it? —— 我能退货吗？
+06-062. Can I exchange it? —— 我能换货吗？
+06-063. I would like to return this. —— 我想退这个。
+06-064. I have the receipt. —— 我有收据。
+06-065. I lost the receipt. —— 我把收据弄丢了。
+06-066. It is broken. —— 它坏了。
+06-067. It does not work. —— 它不能用。
+06-068. It was a gift. —— 这是礼物。
+06-069. I bought it online. —— 我是网上买的。
+06-070. The order has not arrived. —— 订单还没到。
+06-071. The package arrived today. —— 包裹今天到了。
+06-072. The delivery is late. —— 配送晚了。
+06-073. Can you check my order? —— 你能查一下我的订单吗？
+06-074. What is the order number? —— 订单号是多少？
+06-075. Here is the order number. —— 这是订单号。
+06-076. Is there a restroom here? —— 这里有洗手间吗？
+06-077. Where is the restroom? —— 洗手间在哪里？
+06-078. Can I get a napkin? —— 能给我一张餐巾纸吗？
+06-079. Can I get a fork? —— 能给我一把叉子吗？
+06-080. Can I get a spoon? —— 能给我一个勺子吗？
+06-081. Can I get a straw? —— 能给我一根吸管吗？
+06-082. Can I get this to go? —— 这个能打包吗？
+06-083. Can you heat this up? —— 你能把这个加热一下吗？
+06-084. I have a food allergy. —— 我有食物过敏。
+06-085. I am allergic to nuts. —— 我对坚果过敏。
+06-086. I do not eat meat. —— 我不吃肉。
+06-087. I am vegetarian. —— 我是素食者。
+06-088. I need something light. —— 我想吃点清淡的。
+06-089. I need something quick. —— 我想要快一点的。
+06-090. The service was great. —— 服务很好。
+06-091. The food was cold. —— 食物是冷的。
+06-092. This is not what I ordered. —— 这不是我点的。
+06-093. Could you fix this? —— 能帮我处理一下吗？
+06-094. Can I speak to the manager? —— 我能找经理吗？
+06-095. I am satisfied. —— 我很满意。
+06-096. I am not satisfied. —— 我不满意。
+06-097. I will leave a review. —— 我会留个评价。
+06-098. I will come back. —— 我还会再来。
+06-099. Can I get the check, please? —— 请给我账单好吗？
+06-100. Do you have anything cheaper? —— 你们有便宜一点的吗？
+07-001. Where are we? —— 我们在哪里？
+07-002. Where is the nearest station? —— 最近的车站在哪里？
+07-003. Where is the bus stop? —— 公交站在哪里？
+07-004. Where is the subway? —— 地铁在哪里？
+07-005. How do I get there? —— 我怎么去那里？
+07-006. Is it far from here? —— 离这里远吗？
+07-007. Is it within walking distance? —— 走路能到吗？
+07-008. Can I walk there? —— 我能走过去吗？
+07-009. Which way should I go? —— 我该往哪边走？
+07-010. Go straight. —— 一直走。
+07-011. Turn left. —— 左转。
+07-012. Turn right. —— 右转。
+07-013. It is on the left. —— 它在左边。
+07-014. It is on the right. —— 它在右边。
+07-015. It is across the street. —— 它在街对面。
+07-016. It is next to the bank. —— 它在银行旁边。
+07-017. It is behind the building. —— 它在楼后面。
+07-018. It is in front of the hotel. —— 它在酒店前面。
+07-019. I am lost. —— 我迷路了。
+07-020. Can you show me on the map? —— 你能在地图上指给我看吗？
+07-021. I need directions. —— 我需要指路。
+07-022. The map says ten minutes. —— 地图显示十分钟。
+07-023. The traffic is bad. —— 交通很堵。
+07-024. There is an accident ahead. —— 前面有事故。
+07-025. The road is closed. —— 这条路封了。
+07-026. We need another route. —— 我们需要换条路线。
+07-027. Call a taxi. —— 叫辆出租车。
+07-028. I need a ride. —— 我需要搭车。
+07-029. Can you pick me up? —— 你能来接我吗？
+07-030. Can you drop me off here? —— 你能把我放在这里吗？
+07-031. Pull over here, please. —— 请在这里靠边停。
+07-032. How much is the fare? —— 车费多少？
+07-033. Can I pay by card? —— 我能刷卡吗？
+07-034. Can I pay in cash? —— 我能付现金吗？
+07-035. Is this seat taken? —— 这个座位有人吗？
+07-036. You can sit here. —— 你可以坐这里。
+07-037. I need to get off here. —— 我需要在这里下车。
+07-038. This is my stop. —— 这是我要下的站。
+07-039. Which platform is it? —— 在哪个站台？
+07-040. Which gate is it? —— 在哪个登机口？
+07-041. The train is delayed. —— 火车晚点了。
+07-042. The flight is delayed. —— 航班延误了。
+07-043. The flight was canceled. —— 航班取消了。
+07-044. I missed my train. —— 我错过火车了。
+07-045. I missed my flight. —— 我错过航班了。
+07-046. Can I change my ticket? —— 我能改签吗？
+07-047. Can I get a refund? —— 我能退款吗？
+07-048. I need to check in. —— 我需要办理入住/值机。
+07-049. I need to check out. —— 我需要退房。
+07-050. I have a booking. —— 我有预订。
+07-051. The booking is under Alex. —— 预订用的是亚历克斯的名字。
+07-052. Can I see your passport? —— 我能看一下你的护照吗？
+07-053. Here is my passport. —— 这是我的护照。
+07-054. Do you have my reservation? —— 你们有我的预订吗？
+07-055. What time is check-in? —— 几点可以入住？
+07-056. What time is check-out? —— 几点退房？
+07-057. Can I check in early? —— 我能提前入住吗？
+07-058. Can I check out late? —— 我能延迟退房吗？
+07-059. Do you have Wi-Fi? —— 你们有无线网络吗？
+07-060. What is the Wi-Fi password? —— 无线网密码是什么？
+07-061. The room is too noisy. —— 房间太吵了。
+07-062. The room is too cold. —— 房间太冷了。
+07-063. The room is too hot. —— 房间太热了。
+07-064. The air conditioner is not working. —— 空调坏了。
+07-065. The shower is not working. —— 淋浴不能用。
+07-066. There is no hot water. —— 没有热水。
+07-067. Can I change rooms? —— 我能换房间吗？
+07-068. Can I get another key? —— 我能再要一张房卡吗？
+07-069. I lost my key card. —— 我把房卡弄丢了。
+07-070. Can you call housekeeping? —— 你能叫客房服务吗？
+07-071. Can you store my luggage? —— 你能寄存我的行李吗？
+07-072. Where can I park? —— 我可以在哪里停车？
+07-073. Is parking free? —— 停车免费吗？
+07-074. I need a rental car. —— 我需要租车。
+07-075. I need insurance. —— 我需要保险。
+07-076. The car has a problem. —— 车有问题。
+07-077. The tire is flat. —— 轮胎没气了。
+07-078. I need gas. —— 我需要加油。
+07-079. Where is the gas station? —— 加油站在哪里？
+07-080. Where is the entrance? —— 入口在哪里？
+07-081. Where is the exit? —— 出口在哪里？
+07-082. Is this the right line? —— 这是正确的队伍吗？
+07-083. How long is the wait? —— 要等多久？
+07-084. I need a ticket. —— 我需要一张票。
+07-085. Do I need to buy a ticket in advance? —— 我需要提前买票吗？
+07-086. Can I buy a ticket online? —— 我能网上买票吗？
+07-087. The ticket is sold out. —— 票卖完了。
+07-088. What time does it open? —— 几点开门？
+07-089. What time does it close? —— 几点关门？
+07-090. Is it open today? —— 今天开门吗？
+07-091. Is it closed today? —— 今天关门吗？
+07-092. Can you take a picture for us? —— 你能帮我们拍张照吗？
+07-093. Can I take a picture here? —— 我可以在这里拍照吗？
+07-094. I am traveling for work. —— 我是出差。
+07-095. I am traveling for vacation. —— 我是来度假的。
+07-096. This is my first time here. —— 这是我第一次来这里。
+07-097. I had a great trip. —— 我旅途很愉快。
+07-098. I need to go back. —— 我需要回去了。
+07-099. Have a safe trip. —— 一路平安。
+07-100. Enjoy your stay. —— 祝你住得愉快。
+08-001. My phone is dead. —— 我的手机没电了。
+08-002. My battery is low. —— 我的电量很低。
+08-003. I need a charger. —— 我需要充电器。
+08-004. Do you have a charger? —— 你有充电器吗？
+08-005. Can I charge my phone here? —— 我能在这里给手机充电吗？
+08-006. My phone is charging. —— 我的手机正在充电。
+08-007. My phone is not charging. —— 我的手机充不进电。
+08-008. The screen is cracked. —— 屏幕裂了。
+08-009. The camera is not working. —— 摄像头不能用。
+08-010. The app keeps crashing. —— 这个应用一直崩溃。
+08-011. The app is not loading. —— 这个应用加载不出来。
+08-012. The website is down. —— 网站挂了。
+08-013. The page is not loading. —— 页面加载不出来。
+08-014. The video is buffering. —— 视频在缓冲。
+08-015. The sound is not working. —— 声音出不来。
+08-016. The microphone is not working. —— 麦克风不能用。
+08-017. The camera is blurry. —— 摄像头画面很模糊。
+08-018. The Wi-Fi is slow. —— 无线网很慢。
+08-019. The Wi-Fi is not working. —— 无线网不能用。
+08-020. Do you know the Wi-Fi password? —— 你知道无线网密码吗？
+08-021. I forgot the password. —— 我忘记密码了。
+08-022. I need to reset my password. —— 我需要重置密码。
+08-023. I cannot log in. —— 我登录不了。
+08-024. I got locked out. —— 我的账号被锁了。
+08-025. I need to verify my account. —— 我需要验证账号。
+08-026. They sent me a code. —— 他们给我发了验证码。
+08-027. I did not get the code. —— 我没有收到验证码。
+08-028. Check your spam folder. —— 查一下垃圾邮件文件夹。
+08-029. The email bounced back. —— 邮件被退回了。
+08-030. Send me the link. —— 把链接发给我。
+08-031. I sent you the link. —— 我把链接发给你了。
+08-032. The link expired. —— 链接过期了。
+08-033. The link does not work. —— 链接不能用。
+08-034. Can you share the file? —— 你能分享文件吗？
+08-035. Can you upload it? —— 你能上传吗？
+08-036. Can you download it? —— 你能下载吗？
+08-037. The download failed. —— 下载失败了。
+08-038. The upload is stuck. —— 上传卡住了。
+08-039. The file is too large. —— 文件太大了。
+08-040. I need to compress the file. —— 我需要压缩文件。
+08-041. I need to back it up. —— 我需要备份。
+08-042. I lost my data. —— 我的数据丢了。
+08-043. I saved it to the cloud. —— 我把它存到云端了。
+08-044. I shared it with you. —— 我分享给你了。
+08-045. Can you give me access? —— 你能给我权限吗？
+08-046. I do not have access. —— 我没有权限。
+08-047. You need permission. —— 你需要权限。
+08-048. I changed the settings. —— 我改了设置。
+08-049. Turn on notifications. —— 打开通知。
+08-050. Turn off notifications. —— 关闭通知。
+08-051. I missed your message. —— 我没看到你的消息。
+08-052. I just saw your message. —— 我刚看到你的消息。
+08-053. I will reply later. —— 我晚点回复。
+08-054. Sorry for the late reply. —— 抱歉回复晚了。
+08-055. Can you text me? —— 你能给我发短信吗？
+08-056. Can you call me? —— 你能给我打电话吗？
+08-057. Can we video call? —— 我们能视频通话吗？
+08-058. Can we voice call? —— 我们能语音通话吗？
+08-059. The call dropped. —— 电话断了。
+08-060. The signal is bad. —— 信号不好。
+08-061. I am losing signal. —— 我快没信号了。
+08-062. I will call you back. —— 我会给你回电话。
+08-063. Leave me a voicemail. —— 给我留语音留言。
+08-064. I cannot talk right now. —— 我现在不能说话。
+08-065. I am in a quiet place. —— 我在一个安静的地方。
+08-066. I am in a noisy place. —— 我在一个很吵的地方。
+08-067. Can you speak louder? —— 你能说大声点吗？
+08-068. Can you type it? —— 你能打字发给我吗？
+08-069. Send me a screenshot. —— 发我一张截图。
+08-070. Take a screenshot. —— 截个图。
+08-071. Share your location. —— 分享你的位置。
+08-072. I shared my location. —— 我分享了我的位置。
+08-073. Open the app. —— 打开应用。
+08-074. Close the app. —— 关闭应用。
+08-075. Restart your phone. —— 重启你的手机。
+08-076. Update the app. —— 更新应用。
+08-077. Delete the app. —— 删除应用。
+08-078. Install the app. —— 安装应用。
+08-079. Scan the QR code. —— 扫二维码。
+08-080. The QR code is not working. —— 二维码扫不出来。
+08-081. I follow you online. —— 我在网上关注你。
+08-082. I posted a photo. —— 我发了一张照片。
+08-083. I liked your post. —— 我给你的帖子点赞了。
+08-084. I left a comment. —— 我留了评论。
+08-085. I sent you a message. —— 我给你发了消息。
+08-086. Can you tag me? —— 你能标记我吗？
+08-087. Do not tag me. —— 别标记我。
+08-088. Can you delete that? —— 你能删掉那个吗？
+08-089. Please do not share that. —— 请不要分享那个。
+08-090. That is private. —— 那是私人的。
+08-091. Be careful online. —— 上网要小心。
+08-092. Do not click that link. —— 不要点那个链接。
+08-093. It might be a scam. —— 这可能是诈骗。
+08-094. I think my account was hacked. —— 我觉得我的账号被盗了。
+08-095. Change your password now. —— 现在就改密码。
+08-096. Use a strong password. —— 使用强密码。
+08-097. Turn on two-factor authentication. —— 开启双重验证。
+08-098. I need tech support. —— 我需要技术支持。
+08-099. Can you help me fix it? —— 你能帮我修一下吗？
+08-100. It works now. —— 现在能用了。
+09-001. Are you okay? —— 你还好吗？
+09-002. I am not feeling well. —— 我感觉不舒服。
+09-003. I feel sick. —— 我觉得恶心/不舒服。
+09-004. I have a headache. —— 我头疼。
+09-005. I have a stomachache. —— 我胃疼。
+09-006. I have a fever. —— 我发烧了。
+09-007. I have a cough. —— 我咳嗽。
+09-008. I have a sore throat. —— 我喉咙痛。
+09-009. I feel dizzy. —— 我头晕。
+09-010. I feel weak. —— 我觉得虚弱。
+09-011. I need to sit down. —— 我需要坐一下。
+09-012. I need some water. —— 我需要一点水。
+09-013. I need fresh air. —— 我需要透透气。
+09-014. I need a doctor. —— 我需要医生。
+09-015. Can you call a doctor? —— 你能叫医生吗？
+09-016. Can you call an ambulance? —— 你能叫救护车吗？
+09-017. This is an emergency. —— 这是紧急情况。
+09-018. Please help me. —— 请帮帮我。
+09-019. I need help. —— 我需要帮助。
+09-020. Help is on the way. —— 救援正在赶来。
+09-021. Stay with me. —— 陪着我。
+09-022. Stay calm. —— 保持冷静。
+09-023. Do not move. —— 不要动。
+09-024. Take a deep breath. —— 深呼吸。
+09-025. Where does it hurt? —— 哪里疼？
+09-026. It hurts here. —— 这里疼。
+09-027. How long has this been going on? —— 这种情况持续多久了？
+09-028. It started this morning. —— 今天早上开始的。
+09-029. It started yesterday. —— 昨天开始的。
+09-030. It is getting worse. —— 情况越来越糟。
+09-031. It is getting better. —— 情况在好转。
+09-032. I took some medicine. —— 我吃了点药。
+09-033. I need medicine. —— 我需要药。
+09-034. Do you have any allergies? —— 你有什么过敏吗？
+09-035. I am allergic to penicillin. —— 我对青霉素过敏。
+09-036. I am allergic to peanuts. —— 我对花生过敏。
+09-037. I am diabetic. —— 我有糖尿病。
+09-038. I have high blood pressure. —— 我有高血压。
+09-039. I need my inhaler. —— 我需要我的吸入器。
+09-040. I need my medication. —— 我需要我的药。
+09-041. I forgot my medicine. —— 我忘带药了。
+09-042. I need a pharmacy. —— 我需要找药店。
+09-043. Where is the nearest pharmacy? —— 最近的药店在哪里？
+09-044. Can I buy this without a prescription? —— 这个不用处方能买吗？
+09-045. Do I need a prescription? —— 我需要处方吗？
+09-046. Follow the instructions. —— 按照说明服用。
+09-047. Take it with food. —— 随餐服用。
+09-048. Take it twice a day. —— 一天服用两次。
+09-049. Do not take too much. —— 不要过量服用。
+09-050. Call me if it gets worse. —— 如果更严重就给我打电话。
+09-051. I need to rest. —— 我需要休息。
+09-052. You should rest. —— 你应该休息。
+09-053. You should see a doctor. —— 你应该去看医生。
+09-054. I have an appointment with a doctor. —— 我预约了医生。
+09-055. I need to make an appointment. —— 我需要预约。
+09-056. I have health insurance. —— 我有医疗保险。
+09-057. I do not have insurance. —— 我没有保险。
+09-058. How much will it cost? —— 这要花多少钱？
+09-059. Is it covered by insurance? —— 保险能报吗？
+09-060. I need the bill. —— 我需要账单。
+09-061. I need a medical record. —— 我需要病历。
+09-062. I need a sick note. —— 我需要病假条。
+09-063. I cannot come to work today. —— 我今天不能来上班。
+09-064. I need to take a sick day. —— 我需要请病假。
+09-065. I am feeling better now. —— 我现在感觉好多了。
+09-066. I am still not well. —— 我还是不舒服。
+09-067. Be careful. —— 小心。
+09-068. Watch out. —— 当心。
+09-069. Look both ways. —— 左右看看。
+09-070. Hold my hand. —— 牵着我的手。
+09-071. Do not touch that. —— 不要碰那个。
+09-072. It is dangerous. —— 这很危险。
+09-073. It is not safe here. —— 这里不安全。
+09-074. We should leave. —— 我们应该离开。
+09-075. Call the police. —— 报警。
+09-076. I need the police. —— 我需要警察。
+09-077. Someone stole my bag. —— 有人偷了我的包。
+09-078. I lost my wallet. —— 我丢了钱包。
+09-079. I lost my passport. —— 我丢了护照。
+09-080. I lost my phone. —— 我丢了手机。
+09-081. I need to report this. —— 我需要报案/报告这件事。
+09-082. Can you help me report it? —— 你能帮我报告吗？
+09-083. Where is the police station? —— 警察局在哪里？
+09-084. Where is the embassy? —— 大使馆在哪里？
+09-085. I need a translator. —— 我需要翻译。
+09-086. I do not speak much English. —— 我英语说得不多。
+09-087. Please speak slowly. —— 请说慢一点。
+09-088. Please write it down. —— 请写下来。
+09-089. Can you show me? —— 你能给我看一下吗？
+09-090. Can you help me find it? —— 你能帮我找一下吗？
+09-091. I am looking for my bag. —— 我在找我的包。
+09-092. I cannot find my keys. —— 我找不到钥匙。
+09-093. I locked myself out. —— 我把自己锁在门外了。
+09-094. I need a locksmith. —— 我需要锁匠。
+09-095. The power is out. —— 停电了。
+09-096. There is no water. —— 没水了。
+09-097. There is a leak. —— 有漏水。
+09-098. There is smoke. —— 有烟。
+09-099. There is a fire. —— 着火了。
+09-100. The fire alarm is going off. —— 火警铃响了。
